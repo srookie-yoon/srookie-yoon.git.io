@@ -1,0 +1,5 @@
+2022.02.12 
+1. 블로그 개설
+    - 복사한 깃 블로그 템플릿
+      https://jekyll-themes.com/jekyll-theme-yat/
+
